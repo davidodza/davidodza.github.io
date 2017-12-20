@@ -1,7 +1,7 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Teddy
+description:      "Teddy Dev Note"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: teddylee777
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -11,11 +11,11 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Teddy Lee
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          teddylee777@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Awesome Code, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
   twitter:        hmfaysal
   facebook:       hmfaysal
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://teddylee777.github.io/Notepad/'
+  relativeLinks: 'http://teddylee777.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:
     _posts:

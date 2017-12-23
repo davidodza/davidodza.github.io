@@ -70,8 +70,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://teddylee777.github.io/Notepad/'
-  relativeLinks: 'http://teddylee777.github.io/Notepad/links.jsonp'
+  siteurl: 'http://teddylee777.github.io/'
+  relativeLinks: 'http://teddylee777.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:

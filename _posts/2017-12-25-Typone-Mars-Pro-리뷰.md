@@ -3,16 +3,13 @@ layout: post
 title: 맥(Mac) 호환 기계식 키보드 - Typone Mars Pro
 modified: 'Thu Dec 25 2017 21:00:00 GMT+0900 (Korea Standard Time)'
 category: review
-tags: review 리뷰 typone mars_pro mac 기계식키보드
+tags: review 리뷰 typone mars mac 기계식키보드 맥
 mathjax: false
 chart: null
 comments: true
 featured: false
 published: true
-description: ''
-headline: ''
-categories: ''
-imagefeature: ''
+description: Typone Mars Pro | 맥 호환 기계식 키보드 리뷰
 ---
 Mac을 주 컴퓨터로 사용하는 사람들에게는 희소식이다. ***맥용 기계식 키보드***가 출시 되었기 때문이다.
 제품명은 **Typone Mars Pro** 이며, **오리지널 Cherry MX 스위치**를 사용하였다.
@@ -95,6 +92,3 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 
 이는 정말 ***심각한 오류***라고 생각되며, 펌웨어 업데이트를 통해 반드시 수정되기를 바란다.
 Typone 측에도 문의해볼 예정이다.
-
-
-

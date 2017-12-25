@@ -10,6 +10,10 @@ comments: true
 featured: false
 published: true
 description: Typone Mars Pro | 맥 호환 기계식 키보드 리뷰
+categories:
+  - personal
+headline: ''
+imagefeature: ''
 ---
 Mac을 주 컴퓨터로 사용하는 사람들에게는 희소식이다. ***맥용 기계식 키보드***가 출시 되었기 때문이다.
 제품명은 **Typone Mars Pro** 이며, **오리지널 Cherry MX 스위치**를 사용하였다.
@@ -78,12 +82,12 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 ![IMG_20171225_190903.JPG]({{site.baseurl}}/images/IMG_20171225_190903.JPG)
 ![IMG_20171225_191007.JPG]({{site.baseurl}}/images/IMG_20171225_191007.JPG)
 
-요즘, 노트북에는 USB 포트에 굉장히 짜다. 그래서 키보드 하나를 끼우는 것만으로도 USB 포트하나를 점령하게 되어, 상당히 압박이 큰데, Typone Mars Pro는 USB 포트 2개를 추가로 지원함으로써 오히려 USB 포트 1개를 더 활용할 수 있도록 했다. 또한, 독립형 DAC 사운드 지원을 통해 키보드에 연결하여 사운드를 들을 수 있고, Typone사에서 1년 넘게 음질 튜닝에 공들였다고 하니, 한 번 들어볼만 하겠다.
+요즘, 노트북에는 USB 포트에 굉장히 짜다. 그래서 키보드 하나를 끼우는 것만으로도 USB 포트하나를 점령하게 되어, 상당히 압박이 큰데, **Typone Mars Pro**는 USB 포트 2개를 추가로 지원함으로써 오히려 USB 포트 1개를 더 활용할 수 있도록 했다. 또한, 독립형 DAC 사운드 지원을 통해 키보드에 연결하여 사운드를 들을 수 있고, Typone사에서 1년 넘게 음질 튜닝에 공들였다고 하니, 한 번 들어볼만 하겠다.
 
 ## 발견된 치명적 오류! (제발 수정 좀 해달라)
 
 
-지금도 Typone Mars Pro를 사용하여 글을 작성하고 있지만, 의도치 않은 입력이 여러번 될때가 있다.
+지금도 **Typone Mars Pro**를 사용하여 글을 작성하고 있지만, 의도치 않은 입력이 여러번 될때가 있다.
 예를 들면, ***키보드***를 입력 했지만 간혹, ***키볻드***로 'ㄷ'이 두번이상 겹쳐서 입력된다는 점이다.
 
 ***아..정말 짜증난다***
@@ -91,4 +95,10 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 ![typone_marspro_type_error.png]({{site.baseurl}}/images/typone_marspro_type_error.png)
 
 이는 정말 ***심각한 오류***라고 생각되며, 펌웨어 업데이트를 통해 반드시 수정되기를 바란다.
-Typone 측에도 문의해볼 예정이다.
+추가로, 가끔 1글자씩 씹히는 경우가 있다.
+가령, naver.com 을 주소창에 치려고 했으나, naer.com 으로 잘못 타입되는 오류도 있었다.
+
+Typone 측에 이 증상을 문의해볼 예정이다.
+
+
+### #Typone Mars Pro #기계식키보드 #Mac #맥

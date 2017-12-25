@@ -93,7 +93,7 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 
 ![typone_marspro_type_error.png]({{site.baseurl}}/images/typone_marspro_type_error.png)
 
-이는 정말 ****심각한 오류****라고 생각되며, 펌웨어 업데이트를 통해 반드시 수정되기를 바란다.
+이는 정말 ***심각한 오류***라고 생각되며, 펌웨어 업데이트를 통해 반드시 수정되기를 바란다.
 Typone 측에도 문의해볼 예정이다.
 
 

@@ -9,8 +9,6 @@ chart: null
 comments: true
 featured: false
 published: true
-categories:
-  - personal
 ---
 Mac을 주 컴퓨터로 사용하는 사람들에게는 희소식이다. ***맥용 기계식 키보드***가 출시 되었기 때문이다.
 제품명은 **Typone Mars Pro** 이며, **오리지널 Cherry MX 스위치**를 사용하였다.

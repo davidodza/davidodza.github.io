@@ -1,7 +1,12 @@
 ---
 layout: post
 title: 맥(Mac) 호환 기계식 키보드 - Typone Mars Pro
+date: 2017-12-25
 modified: 'Thu Dec 25 2017 21:00:00 GMT+0900 (Korea Standard Time)'
+lastmod : 2017-12-25 21:00:00
+sitemap :
+changefreq : weekly
+priority : 1.0
 category: review
 tags: review 리뷰 typone mars mac 기계식키보드 맥
 mathjax: false
@@ -10,8 +15,6 @@ comments: true
 featured: false
 published: true
 description: Typone Mars Pro | 맥 호환 기계식 키보드 리뷰
-categories:
-  - personal
 headline: ''
 imagefeature: ''
 ---
@@ -75,7 +78,7 @@ http://typone.com/home/portfolio/mars-pro/
 ## 맥 기능 지원 (10/10)
 
 
-fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있다. Esc 쪽에 빨간 LED가 들어와 있다면, Windows 모드이고, LED가 꺼져 있다면, Mac모드이다. Misson Control의 단축키도 지원하며 기타 밝기 조절 / 사운드 조절 / 미디어 키들도 지원한다. 
+fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있다. Esc 쪽에 빨간 LED가 들어와 있다면, Windows 모드이고, LED가 꺼져 있다면, Mac모드이다. Misson Control의 단축키도 지원하며 기타 밝기 조절 / 사운드 조절 / 미디어 키들도 지원한다.
 
 ## USB 포트 2개 / 독립형 DAC 사운드 지원 (10/10)
 

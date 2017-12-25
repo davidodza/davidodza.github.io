@@ -60,6 +60,7 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 예를 들면, ***키보드***를 입력 했지만 간혹, ***키볻드***로 'ㄷ'이 두번이상 겹쳐서 입력된다는 점이다.
 
 ***아..정말 짜증난다***
+
 [typone_marspro_type_error.png]({{site.baseurl}}/images/typone_marspro_type_error.png)
 
 이는 정말 ****심각한 오류****라고 생각되며, 펌웨어 업데이트를 통해 반드시 수정되기를 바란다.

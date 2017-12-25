@@ -16,12 +16,12 @@
       {% if post.sitemap.changefreq %}
         <changefreq>{{ post.sitemap.changefreq }}</changefreq>
       {% else %}
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
       {% endif %}
       {% if post.sitemap.priority %}
         <priority>{{ post.sitemap.priority }}</priority>
       {% else %}
-        <priority>0.5</priority>
+        <priority>0.7</priority>
       {% endif %}
     </url>
     {% endunless %}

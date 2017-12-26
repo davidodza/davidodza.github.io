@@ -110,16 +110,12 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
-            - name: "Interesting"
-              value: interesting
             - name: "Web-Development"
               value: webdevelopment
+            - name: "Synology"
+              value: synology
+            - name: "Review"
+              value: review
           alterable: true
       - name: "tags"
         field:

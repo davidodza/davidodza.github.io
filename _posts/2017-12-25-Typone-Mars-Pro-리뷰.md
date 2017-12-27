@@ -33,11 +33,11 @@ http://typone.com/home/portfolio/mars-pro/
 
 ## 제품 패키징 & 디자인 (9/10)
 
-![IMG_20171225_190316.JPG]({{site.baseurl}}/images/IMG_20171225_190316.JPG=800x)
-![IMG_20171225_190418.JPG]({{site.baseurl}}/images/IMG_20171225_190418.JPG=800x)
-![IMG_20171225_190451.JPG]({{site.baseurl}}/images/IMG_20171225_190451.JPG=800x)
-![IMG_20171225_190550.JPG]({{site.baseurl}}/images/IMG_20171225_190550.JPG=800x)
-![IMG_20171225_190605.JPG]({{site.baseurl}}/images/IMG_20171225_190605.JPG=800x)
+![IMG_20171225_190316.JPG]({{site.baseurl}}/images/IMG_20171225_190316.JPG)
+![IMG_20171225_190418.JPG]({{site.baseurl}}/images/IMG_20171225_190418.JPG)
+![IMG_20171225_190451.JPG]({{site.baseurl}}/images/IMG_20171225_190451.JPG)
+![IMG_20171225_190550.JPG]({{site.baseurl}}/images/IMG_20171225_190550.JPG)
+![IMG_20171225_190605.JPG]({{site.baseurl}}/images/IMG_20171225_190605.JPG)
 ![IMG_20171225_190731.JPG]({{site.baseurl}}/images/IMG_20171225_190731.JPG)
 
 디자인은 우선 합격점을 주고 싶다.

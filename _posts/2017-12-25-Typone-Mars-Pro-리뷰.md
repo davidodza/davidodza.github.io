@@ -10,7 +10,7 @@ chart: null
 comments: true
 featured: false
 published: true
-description: Typone Mars Pro | 맥 호환 기계식 키보드 리뷰
+description: Typone Mars Pro | 맥 호환 기계식 키보드 의 제품 리뷰.
 ---
 Mac을 주 컴퓨터로 사용하는 사람들에게는 희소식이다. ***맥용 기계식 키보드***가 출시 되었기 때문이다.
 제품명은 **Typone Mars Pro** 이며, **오리지널 Cherry MX 스위치**를 사용하였다.
@@ -33,11 +33,11 @@ http://typone.com/home/portfolio/mars-pro/
 
 ## 제품 패키징 & 디자인 (9/10)
 
-![IMG_20171225_190316.JPG]({{site.baseurl}}/images/IMG_20171225_190316.JPG)
-![IMG_20171225_190418.JPG]({{site.baseurl}}/images/IMG_20171225_190418.JPG)
-![IMG_20171225_190451.JPG]({{site.baseurl}}/images/IMG_20171225_190451.JPG)
-![IMG_20171225_190550.JPG]({{site.baseurl}}/images/IMG_20171225_190550.JPG)
-![IMG_20171225_190605.JPG]({{site.baseurl}}/images/IMG_20171225_190605.JPG)
+![IMG_20171225_190316.JPG]({{site.baseurl}}/images/IMG_20171225_190316.JPG=800x)
+![IMG_20171225_190418.JPG]({{site.baseurl}}/images/IMG_20171225_190418.JPG=800x)
+![IMG_20171225_190451.JPG]({{site.baseurl}}/images/IMG_20171225_190451.JPG=800x)
+![IMG_20171225_190550.JPG]({{site.baseurl}}/images/IMG_20171225_190550.JPG=800x)
+![IMG_20171225_190605.JPG]({{site.baseurl}}/images/IMG_20171225_190605.JPG=800x)
 ![IMG_20171225_190731.JPG]({{site.baseurl}}/images/IMG_20171225_190731.JPG)
 
 디자인은 우선 합격점을 주고 싶다.

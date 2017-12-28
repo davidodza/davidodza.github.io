@@ -32,23 +32,23 @@ http://typone.com/home/portfolio/mars-pro/
 
 구매링크: http://www.typoneshop.com/product/mars-pro-%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%82%A4%EB%B3%B4%EB%93%9C/17/category/24/display/1/
 
-![typone_keyboard.png]({{site.baseurl}}/images/typone_keyboard.png)
+![Typone Mars Pro 가격정보]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/typone_keyboard.png)
 
 ## 제품 패키징 & 디자인 (9/10)
 
-![IMG_20171225_190316.JPG]({{site.baseurl}}/images/IMG_20171225_190316.JPG)
-![IMG_20171225_190418.JPG]({{site.baseurl}}/images/IMG_20171225_190418.JPG)
-![IMG_20171225_190451.JPG]({{site.baseurl}}/images/IMG_20171225_190451.JPG)
-![IMG_20171225_190550.JPG]({{site.baseurl}}/images/IMG_20171225_190550.JPG)
-![IMG_20171225_190605.JPG]({{site.baseurl}}/images/IMG_20171225_190605.JPG)
-![IMG_20171225_190731.JPG]({{site.baseurl}}/images/IMG_20171225_190731.JPG)
+![Typone Mars Pro 패킹]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190316.JPG)
+![Typone Mars Pro 패킹2]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190418.JPG)
+![Typone Mars Pro 패킹3]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190451.JPG)
+![Typone Mars Pro Unboxing]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190550.JPG)
+![Typone Mars Pro Unboxing2]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190605.JPG)
+![Typone Mars Pro Back]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190731.JPG)
 
 디자인은 우선 합격점을 주고 싶다.
 무광 느낌의 키캡이 상당히 매력적이며, 키보드의 각인 또한 하단 측면에 위치한 것이 특징이다.
 상당히 고급스러운 느낌을 준다.
 
-![IMG_20171225_190648.JPG]({{site.baseurl}}/images/IMG_20171225_190648.JPG)
-![IMG_20171225_190653.JPG]({{site.baseurl}}/images/IMG_20171225_190653.JPG)
+![Typone Mars Pro Key Layout]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190648.JPG)
+![Typone Mars Pro Key Layout]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190653.JPG)
 
 
 빨간색으로 디자인된 키보드 라인도 꽤 매력적이다.
@@ -56,7 +56,7 @@ http://typone.com/home/portfolio/mars-pro/
 다만, 조금 아쉬운 점은 흰색의 플라스틱 소재가 사진으로 볼 때와 달리 실물은 조금 저렴한 느낌이 난다.
 그래도 전체적인 느낌은 합격점을 주기에 충분하다.
 
-![IMG_20171225_191451.JPG]({{site.baseurl}}/images/IMG_20171225_191451.JPG)
+![Typone Mars Pro LED]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_191451.JPG)
 
 
 ## 타건의 느낌 (7/10)
@@ -65,8 +65,8 @@ http://typone.com/home/portfolio/mars-pro/
 솔직히 Typone Mars Pro를 구매할 때부터 ***맥 호환 기계식 키보드*** 라는 점에 이끌려 구매하였기 때문에,
 타건을 해보지 않고 구매하였기 때문에, 제품을 받자 마자 바로 타건을 해 보았다.
 
-![IMG_20171225_191224.JPG]({{site.baseurl}}/images/IMG_20171225_191224.JPG)
-![IMG_20171225_191242.JPG]({{site.baseurl}}/images/IMG_20171225_191242.JPG)
+![Typone Mars Pro Key Cap]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_191224.JPG)
+![Typone Mars Pro Button Brown]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_191242.JPG)
 
 평소 좋아하는 **갈축**을 구매하였고, 필자가 가지고 있는 다른 기계식 키보드 (덱헤슘 갈축 텐키리스)와 비교했을 때, 필자는 개인적으로 덱헤슘쪽에 점수를 더 주고 싶다. 무언가 견고함이 조금 더 떨어지는 느낌이다. 구매전 타건은 반드시 해보고 제품 구매를 결정하기를 추천한다.
 
@@ -79,8 +79,8 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 
 ## USB 포트 2개 / 독립형 DAC 사운드 지원 (10/10)
 
-![IMG_20171225_190903.JPG]({{site.baseurl}}/images/IMG_20171225_190903.JPG)
-![IMG_20171225_191007.JPG]({{site.baseurl}}/images/IMG_20171225_191007.JPG)
+![IMG_20171225_190903.JPG]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_190903.JPG)
+![IMG_20171225_191007.JPG]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_191007.JPG)
 
 요즘, 노트북에는 USB 포트에 굉장히 짜다. 그래서 키보드 하나를 끼우는 것만으로도 USB 포트하나를 점령하게 되어, 상당히 압박이 큰데, **Typone Mars Pro**는 USB 포트 2개를 추가로 지원함으로써 오히려 USB 포트 1개를 더 활용할 수 있도록 했다. 또한, 독립형 DAC 사운드 지원을 통해 키보드에 연결하여 사운드를 들을 수 있고, Typone사에서 1년 넘게 음질 튜닝에 공들였다고 하니, 한 번 들어볼만 하겠다.
 
@@ -91,7 +91,7 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 
 ***아..정말 짜증난다***
 
-![typone_marspro_type_error.png]({{site.baseurl}}/images/typone_marspro_type_error.png)
+![Typone Mars Pro Type Error]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/typone_marspro_type_error.png)
 
 이는 정말 ***심각한 오류***라고 생각되며, 펌웨어 업데이트를 통해 반드시 수정되기를 바란다.
 추가로, 가끔 1글자씩 씹히는 경우가 있다.
@@ -106,7 +106,7 @@ Typone 측에 이 증상을 문의해볼 예정이다.
 추운 날씨에 키보드를 보관해서 접점부가 굳으면서 해당 현상이 일어났고,
 ***해결책***으로는 해당 부위를 여러번 눌러주면 바로 이중입력 문제가 사라진다고 한다.
 
-![teddy_captured_20171228115025.jpg]({{site.baseurl}}/images/teddy_captured_20171228115025.jpg)
+![Typone Mars Pro QnA]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/teddy_captured_20171228115025.jpg)
 
 아마 따듯한 실내에서 보관 후 **이중 입력 문제가 일어나는 키를 여러번 눌러주면 해결될 것으로 보인다.**
 

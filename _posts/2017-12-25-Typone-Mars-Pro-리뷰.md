@@ -92,8 +92,7 @@ Apple의 블루투스 키보드는 설정 - 키보드에서
 *F1, F2 등의 키를 기본 기능키로 사용*을 체크 해 놓음으로써 밝기 조절 / 음량 조절이 아닌 기능키로 바로 사용할 수 있었다.
 하지만, **Mars Pro**는 이 기능을 지원하지 않으며, 무조건 밝기 조절 / 음량 조절등의 기능으로만 활용할 수 있다.
 
-
-![Typone Mars Pro USB Sounds]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/IMG_20171225_191007.JPG)
+![Typone Mars Pro USB Sounds]({{site.baseurl}}/images/2017-12-25-Typone-Mars-Pro-리뷰/Typone_doesnt_support_functionkeys.JPG)
 
 개발시 디버깅을 하거나 특히 디자이너들은 F1~F12까지 사용할 일이 많은데, 정말 Fn 키의 위치를 봤을때 너무나도 괴롭다.
 F1 ~ F12 키를 많이 활용하는 사람은 펌웨어 업데이트를 기대해 보는 수 밖에 없다.

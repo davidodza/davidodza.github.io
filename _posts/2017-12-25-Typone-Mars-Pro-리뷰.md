@@ -1,16 +1,19 @@
 ---
 layout: post
-title: "맥(Mac) 호환 기계식 키보드 - Typone Mars Pro"
-date: 2017-12-25
-modified: 'Thu Dec 25 2017 21:00:00 GMT+0900 (Korea Standard Time)'
+title: 맥(Mac) 호환 기계식 키보드 - Typone Mars Pro
+date: {}
+modified: 'Thu Dec 28 2017 11:54:00 GMT+0900 (Korea Standard Time)'
 category: review
-tags: [review 리뷰 typone mars mac 기계식키보드 맥]
+tags: review 리뷰 typone mars mac 기계식키보드 맥
 mathjax: false
 chart: null
 comments: true
 featured: false
 published: true
 description: Typone Mars Pro | 맥 호환 기계식 키보드 의 제품 리뷰.
+categories:
+  - review
+headline: 국내 Typone사의 Typone Mars Pro 개봉기 및 사용기
 ---
 Mac을 주 컴퓨터로 사용하는 사람들에게는 희소식이다. ***맥용 기계식 키보드***가 출시 되었기 때문이다.
 제품명은 **Typone Mars Pro** 이며, **오리지널 Cherry MX 스위치**를 사용하였다.
@@ -81,8 +84,7 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 
 요즘, 노트북에는 USB 포트에 굉장히 짜다. 그래서 키보드 하나를 끼우는 것만으로도 USB 포트하나를 점령하게 되어, 상당히 압박이 큰데, **Typone Mars Pro**는 USB 포트 2개를 추가로 지원함으로써 오히려 USB 포트 1개를 더 활용할 수 있도록 했다. 또한, 독립형 DAC 사운드 지원을 통해 키보드에 연결하여 사운드를 들을 수 있고, Typone사에서 1년 넘게 음질 튜닝에 공들였다고 하니, 한 번 들어볼만 하겠다.
 
-## 발견된 치명적 오류! (제발 수정 좀 해달라)
-
+## 이중 입력 문제 (Typone사의 공식 답변)
 
 지금도 **Typone Mars Pro**를 사용하여 글을 작성하고 있지만, 의도치 않은 입력이 여러번 될때가 있다.
 예를 들면, ***키보드***를 입력 했지만 간혹, ***키볻드***로 'ㄷ'이 두번이상 겹쳐서 입력된다는 점이다.
@@ -96,6 +98,29 @@ fn + Esc를 누르게 되면 Windows모드 / Mac모드 를 토글링할 수 있�
 가령, naver.com 을 주소창에 치려고 했으나, naer.com 으로 잘못 타입되는 오류도 있었다.
 
 Typone 측에 이 증상을 문의해볼 예정이다.
+
+======================================================================================================
+
+***Typone 측으로부터 답변이 왔다.***
+
+추운 날씨에 키보드를 보관해서 접점부가 굳으면서 해당 현상이 일어났고,
+***해결책***으로는 해당 부위를 여러번 눌러주면 바로 이중입력 문제가 사라진다고 한다.
+
+![teddy_captured_20171228115025.jpg]({{site.baseurl}}/images/teddy_captured_20171228115025.jpg)
+
+아마 따듯한 실내에서 보관 후 **이중 입력 문제가 일어나는 키를 여러번 눌러주면 해결될 것으로 보인다.**
+
+그래도 안된다면, Typone 사에 직접 문의를 해보는게 좋겠다.
+<참고로, Typone사로부터 답변은 엄청 빠르다..>
+
+
+
+
+
+
+
+
+
 
 
 ### #Typone Mars Pro #기계식키보드 #Mac #맥

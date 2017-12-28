@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 맥(Mac) 호환 기계식 키보드 - Typone Mars Pro
+title: "맥(Mac) 호환 기계식 키보드 - Typone Mars Pro"
 date: 2017-12-25T00:00:00.000Z
 modified: 'Thu Dec 28 2017 11:54:00 GMT+0900 (Korea Standard Time)'
 category: review
@@ -10,7 +10,7 @@ chart: null
 comments: true
 featured: false
 published: true
-description: Typone Mars Pro | 맥 호환 기계식 키보드 의 제품 리뷰.
+description: "Typone Mars Pro | 맥 호환 기계식 키보드 의 제품 리뷰."
 categories:
   - review
 headline: 국내 Typone사의 Typone Mars Pro 개봉기 및 사용기

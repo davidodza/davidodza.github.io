@@ -1,7 +1,7 @@
-title:            Teddy의 개발 노트
-description:      "Do what you want and never regret"
+title:            David Odza
+description:      Ethical Hacker
 logo:             logo.png
-disqus_shortname: teddylee777
+disqus_shortname: davidodza
 share:            true
 dropcap:		  true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -11,11 +11,11 @@ url:        	  https://davidodza.github.io/
 
 # Owner/author information
 owner:
-  name:           Teddy Lee
+  name:           David Odza
   avatar:         Teddy_Lee.jpg
-  email:          teddylee777@gmail.com
+  email:          davidodza@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Enjoy coding and make it useful!
+  description:    ♫ My Dream is my Only Scheme ♫
   # Social networking links used in footer. Update and remove as you like.
   facebook:       CreativeTeddy
   github:         teddylee777
@@ -24,7 +24,7 @@ owner:
   google_plus:    https://plus.google.com/u/0/100180549959489219789
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-111508093-1
+google_analytics:   #UA-111508093-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -66,8 +66,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://teddylee777.github.io/'
-  relativeLinks: 'http://teddylee777.github.io/links.jsonp'
+  siteurl: 'http://davidodza.github.io/'
+  relativeLinks: 'http://davidodza.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:

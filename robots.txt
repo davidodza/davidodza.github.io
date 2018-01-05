@@ -1,3 +1,3 @@
 User-agent: *
 Allow:/
-Sitemap: http://teddylee777.github.io/sitemap.xml
+Sitemap: http://davidodza.github.io/sitemap.xml

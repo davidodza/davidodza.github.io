@@ -12,7 +12,7 @@ url:        	  https://davidodza.github.io/
 # Owner/author information
 owner:
   name:           David Odza
-  avatar:         Teddy_Lee.jpg
+  avatar:         DavidOdza.JPG
   email:          davidodza@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    ♫ My Dream is my Only Scheme ♫
@@ -40,7 +40,7 @@ links:
     url: /categories
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Seoul
+timezone:    America/Los_Angeles
 future:      true
 highlighter: rouge
 markdown:    kramdown

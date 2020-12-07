@@ -2,7 +2,9 @@
 layout: post
 published: true
 categories:
-  - personal
+  - python
+  - selenium
+  - botsec
 mathjax: false
 featured: false
 comments: true

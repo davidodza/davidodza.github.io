@@ -2,7 +2,10 @@
 layout: post
 published: true
 categories:
-  - personal
+  - SQLi
+  - XSS
+  - Crypotgraphy
+  - Burpsuite
 mathjax: false
 featured: false
 comments: true

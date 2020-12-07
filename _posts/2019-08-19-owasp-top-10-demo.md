@@ -14,19 +14,7 @@ tags: ''
 imagefeature: ''
 ---
 Goal:
-Web application security is an important aspect of securing the infrastructure. Using any resource available online build a web server and provide evidence of a vulnerability or penetration test for any of the OWASP 10 vulnerabilities. 
-
-The server and backend (if any) can be any version of any service you choose. 
-
-Documentation of the research and implementation is required. 
-
-The objective is to ensure a proper evidence for vulnerability a fix is desirable but not required, the final report however should be comprehensive enough to submit to a DevOps team to fix or lower the risk of such vulnerability. 
-
-Please complete this within 10 natural days and provide:
-
-Vulnerability exploitation proof.
-Any design/implementation documentation
-DevOps team fix request
+Using any resource available online build a web server and provide evidence of a vulnerability or penetration test for any of the OWASP 10 vulnerabilities. 
 
 ![1]({{site.baseurl}}/images/OWASP/new1.JPG)
 ![2]({{site.baseurl}}/images/OWASP/new2.JPG)

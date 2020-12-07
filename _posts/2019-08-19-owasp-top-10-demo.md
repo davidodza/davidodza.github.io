@@ -5,7 +5,7 @@ categories:
   - SQLi
   - XSS
   - Crypotgraphy
-  - Burpsuite
+  - BurpSuite
 mathjax: false
 featured: false
 comments: true

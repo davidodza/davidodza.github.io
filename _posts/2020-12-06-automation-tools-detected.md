@@ -15,18 +15,24 @@ While using Automation Tools today, a website had the **audacity** to tell me th
 I'm leaving out the website and the security vendor that was circumvented.
 
 ## Factors that this security vendor seems to be analyzing:
-Window Size: Detecting the default ChromeDriver window size.
-`options.add_argument("start-maximized")`
+**Window Size**: Detecting the default ChromeDriver window size.
+```
+options.add_argument("start-maximized")
+```
 
-User Agent: 
+**User Agent**: 
 ```
 user_agent = random.choice(valid_windows_user_agents)
 ua_input = 'user-agent=' + user_agent
 options.add_argument(ua_input)
 ```
 
-Pace: Moving too fast. Consitency of action patterns too strong.
-`time.sleep(randrange(19,35))` //19-35 seconds delay
+**Pace:** Moving too fast. Consitency of action patterns too strong.
+```
+time.sleep(randrange(19,35)) #19-35 seconds delay
+```
 
-Referrer: Chrome starts on a "blank" page. Arriving to the website from the "blank" page is inhuman (unless it's your Chrome landing page)
-`driver.get("https://www.google.com/")` 
+**Referrer**: Chrome starts on a "blank" page. Arriving to the website from the "blank" page is inhuman (unless it's your Chrome landing page)
+```
+driver.get("https://www.google.com/")
+```

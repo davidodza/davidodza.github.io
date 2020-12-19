@@ -2,6 +2,7 @@
 layout: post
 published: true
 categories:
+  - personal
   - python
   - selenium
   - botsec
@@ -14,7 +15,7 @@ title: Automation Tools Detected
 
 While using Automation Tools today, a website had the **audacity** to tell me they suspected me of using Automation Tools! A couple hours later I have gained the website's trust and am browsing automatically without hassle. 
 
-I'm leaving out the website and the security vendor that was circumvented.
+I'm leaving out the website and the detecting security vendor.
 
 ## Factors of analysis
 **1) Window Size**: Detecting the default ChromeDriver window size.

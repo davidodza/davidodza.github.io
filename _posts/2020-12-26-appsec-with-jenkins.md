@@ -24,3 +24,7 @@ We will be using the [Web Application Security Scanner](https://github.com/Arach
 ![vuln_xss_page.JPG]({{site.baseurl}}/images/vuln_xss_page.JPG)
 
 
+As expected, Arachni has detected the XSS vulnerability. 
+![arachni_ouptut.JPG]({{site.baseurl}}/images/arachni_ouptut.JPG)
+
+We can use this output to make subsequent code changes to remediate the vulnerability.

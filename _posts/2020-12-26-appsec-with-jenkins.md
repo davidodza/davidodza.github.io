@@ -2,7 +2,9 @@
 layout: post
 published: true
 categories:
-  - personal
+  - Jenkins
+  - Docker
+  - DevSecOps
 mathjax: false
 featured: false
 comments: true

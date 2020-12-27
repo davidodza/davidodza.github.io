@@ -11,6 +11,8 @@ title: AppSec with Jenkins
 ## AppSec with Jenkins
 
 Forked OWASP's [Vulnerable-Web-Application](https://github.com/OWASP/Vulnerable-Web-Application) for this excersise. The plan is to have security tools run in Jenkins every time we have a new build from the project.
+
+Our security team will track diff's of the security tooling output to detect builds that introduced new vulnerabilities. 
 ![jenkins_git_url.JPG]({{site.baseurl}}/images/jenkins_git_url.JPG)
 
 

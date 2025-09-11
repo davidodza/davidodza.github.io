@@ -149,12 +149,3 @@ conn.execute("SELECT * FROM tickets WHERE id = %s", (ticket_id,))
 - Ephemeral tokens reduce blast radius but require a reliable token service.
 
 ---
-
-If you'd like, I can also:
-- Provide a concrete diagram (PNG/SVG) you can drop into architecture docs.
-- Generate sample IAM policies and Postgres/BigQuery scripts tuned to your stack.
-- Convert the pseudo-code into a working example in your language of choice.
-
----
-
-*End of reference architecture.*

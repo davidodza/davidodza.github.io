@@ -1,5 +1,6 @@
 title:            Cybersecurity Insights
-description:      Welcome to my cybersecurity journey! Sharing insights, tutorials, and real-world security experiences
+description:      Welcome to my cybersecurity journey!
+description2:     Sharing insights, tutorials, and real-world security experiences
 logo:             logo.png
 disqus_shortname: davidodza
 share:            true
@@ -18,6 +19,7 @@ owner:
   description:    Passionate about cybersecurity, always learning, and excited to share knowledge with the community
   # Social networking links used in footer. Update and remove as you like.
   github:         davidodza
+  linkedin:       david-odza
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:    https://plus.google.com/u/0/100180549959489219789
 

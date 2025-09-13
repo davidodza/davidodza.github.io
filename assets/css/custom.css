@@ -177,11 +177,74 @@
   animation: fadeInUp 1s ease-out, pulse 2s ease-in-out 2s infinite;
 }
 
+/* Personal introduction styling */
+.personal-intro {
+  text-align: center;
+  margin: 2rem 0;
+  position: relative;
+  z-index: 2;
+}
+
+.author-name {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.social-links-hero {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.social-links-hero a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.social-links-hero a:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.linkedin-link:hover {
+  background: linear-gradient(45deg, #0077b5, #005885) !important;
+}
+
+.github-link:hover {
+  background: linear-gradient(45deg, #333, #000) !important;
+}
+
+/* Description container for better spacing */
+.description-container {
+  text-align: center;
+  margin-top: 1rem;
+}
+
 /* Reduce the overly large description font sizes */
 .notepad-site-head .notepad-site-head-content h2 {
   font-size: 1.5rem !important; /* Mobile: 24px */
   font-weight: 400 !important;
   line-height: 1.4 !important;
+  margin: 0.5rem 0 !important;
+}
+
+.notepad-blog-description-2 {
+  font-size: 1.2rem !important; /* Slightly smaller for second line */
+  opacity: 0.9;
 }
 
 @media only screen and (min-width: 40.063em) {
@@ -205,5 +268,31 @@
 @media only screen and (min-width: 100em) {
   .notepad-site-head .notepad-site-head-content h2 {
     font-size: 2.75rem !important; /* Very large: 44px */
+  }
+}
+
+/* Responsive styling for personal intro */
+@media only screen and (min-width: 40.063em) {
+  .author-name {
+    font-size: 1.8rem;
+  }
+  
+  .social-links-hero a {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+  }
+  
+  .notepad-blog-description-2 {
+    font-size: 1.4rem !important;
+  }
+}
+
+@media only screen and (min-width: 70em) {
+  .author-name {
+    font-size: 2rem;
+  }
+  
+  .personal-intro {
+    margin: 3rem 0;
   }
 }

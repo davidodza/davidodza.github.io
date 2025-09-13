@@ -1,15 +1,15 @@
-/* Custom professional styling for the hero section */
+/* Custom welcoming styling for the hero section */
 
-/* Enhanced hero section with gradient and subtle pattern */
+/* Enhanced hero section with warm gradient and welcoming pattern */
 .notepad-site-head .notepad-site-head-content {
-  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%);
+  background: linear-gradient(135deg, #2c3e50 0%, #3498db 30%, #e74c3c 70%, #f39c12 100%);
   background-size: 400% 400%;
-  animation: gradientShift 15s ease infinite;
+  animation: gradientShift 20s ease infinite;
   position: relative;
   overflow: hidden;
 }
 
-/* Add a subtle pattern overlay */
+/* Add a welcoming pattern overlay */
 .notepad-site-head .notepad-site-head-content::before {
   content: '';
   position: absolute;
@@ -18,9 +18,10 @@
   right: 0;
   bottom: 0;
   background-image: 
-    radial-gradient(circle at 20% 80%, rgba(229, 24, 67, 0.1) 0%, transparent 50%),
-    radial-gradient(circle at 80% 20%, rgba(229, 24, 67, 0.1) 0%, transparent 50%),
-    radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.05) 0%, transparent 50%);
+    radial-gradient(circle at 20% 80%, rgba(52, 152, 219, 0.15) 0%, transparent 60%),
+    radial-gradient(circle at 80% 20%, rgba(231, 76, 60, 0.15) 0%, transparent 60%),
+    radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 60% 60%, rgba(243, 156, 18, 0.1) 0%, transparent 50%);
   pointer-events: none;
 }
 
@@ -47,19 +48,28 @@
   font-weight: 300;
 }
 
-/* Enhanced category tag styling */
+/* Welcoming category tag styling */
 .notepad-site-head .notepad-site-head-content .notepad-site-head-title-bg {
-  background: linear-gradient(45deg, #e51843, #ff4757);
-  box-shadow: 0 4px 15px rgba(229, 24, 67, 0.3);
-  border-radius: 4px;
+  background: linear-gradient(45deg, #3498db, #e74c3c, #f39c12);
+  background-size: 200% 200%;
+  animation: tagGradient 3s ease infinite;
+  box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
+  border-radius: 8px;
   position: relative;
   z-index: 2;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .notepad-site-head .notepad-site-head-content .notepad-site-head-title-bg:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(229, 24, 67, 0.4);
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 8px 25px rgba(52, 152, 219, 0.6);
+}
+
+/* Tag gradient animation */
+@keyframes tagGradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
 /* Add subtle animation to the content */
@@ -79,9 +89,9 @@
   }
 }
 
-/* Professional footer styling */
+/* Welcoming footer styling */
 .notepad-site-footer {
-  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 50%, #2c3e50 100%);
 }
 
 /* Enhanced social icons */
@@ -90,8 +100,8 @@
 }
 
 .notepad-site-footer .social-icons a:hover {
-  transform: translateY(-2px);
-  color: #e51843;
+  transform: translateY(-3px) scale(1.1);
+  color: #3498db;
 }
 
 /* Professional navigation styling */
@@ -101,8 +111,8 @@
 }
 
 .notepad-blog-menu ul li a:hover {
-  color: #e51843;
-  border-bottom-color: #e51843;
+  color: #3498db;
+  border-bottom-color: #3498db;
 }
 
 /* Add subtle hover effects to blog posts */
@@ -113,19 +123,87 @@
 }
 
 .notepad-content .notepad-index-post:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(52, 152, 219, 0.15);
 }
 
-/* Professional read more button */
+/* Welcoming read more button */
 .notepad-content .notepad-index-post .notepad-post-read-more {
-  background: linear-gradient(45deg, #1a1a1a, #2d2d2d);
+  background: linear-gradient(45deg, #3498db, #2980b9);
   border: 2px solid transparent;
   transition: all 0.3s ease;
+  border-radius: 6px;
 }
 
 .notepad-content .notepad-index-post .notepad-post-read-more:hover {
-  background: linear-gradient(45deg, #e51843, #ff4757);
-  transform: translateY(-1px);
-  box-shadow: 0 4px 15px rgba(229, 24, 67, 0.3);
+  background: linear-gradient(45deg, #e74c3c, #c0392b);
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
+}
+
+/* Welcoming welcome message styling */
+.welcome-message {
+  text-align: center;
+  padding: 2rem 0;
+  background: linear-gradient(135deg, #ecf0f1 0%, #bdc3c7 100%);
+  margin: 2rem 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.welcome-message h3 {
+  color: #2c3e50;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 300;
+}
+
+.welcome-message p {
+  color: #34495e;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Add a subtle pulse animation to make it more inviting */
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+
+.notepad-site-head .notepad-site-head-content h2 {
+  animation: fadeInUp 1s ease-out, pulse 2s ease-in-out 2s infinite;
+}
+
+/* Reduce the overly large description font sizes */
+.notepad-site-head .notepad-site-head-content h2 {
+  font-size: 1.5rem !important; /* Mobile: 24px */
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+}
+
+@media only screen and (min-width: 40.063em) {
+  .notepad-site-head .notepad-site-head-content h2 {
+    font-size: 2rem !important; /* Medium screens: 32px */
+  }
+}
+
+@media only screen and (min-width: 70em) {
+  .notepad-site-head .notepad-site-head-content h2 {
+    font-size: 2.25rem !important; /* Large screens: 36px */
+  }
+}
+
+@media only screen and (min-width: 90em) {
+  .notepad-site-head .notepad-site-head-content h2 {
+    font-size: 2.5rem !important; /* Extra large: 40px */
+  }
+}
+
+@media only screen and (min-width: 100em) {
+  .notepad-site-head .notepad-site-head-content h2 {
+    font-size: 2.75rem !important; /* Very large: 44px */
+  }
 }

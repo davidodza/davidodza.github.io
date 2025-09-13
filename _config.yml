@@ -1,5 +1,5 @@
 title:            Cybersecurity Insights
-description:      Professional security analysis, penetration testing, and defensive strategies
+description:      Welcome to my cybersecurity journey! Sharing insights, tutorials, and real-world security experiences
 logo:             logo.png
 disqus_shortname: davidodza
 share:            true
@@ -15,7 +15,7 @@ owner:
   avatar:         DavidOdza.JPG
   email:          davidodza@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Cybersecurity Professional
+  description:    Passionate about cybersecurity, always learning, and excited to share knowledge with the community
   # Social networking links used in footer. Update and remove as you like.
   github:         davidodza
   # For Google Authorship https://plus.google.com/authorship

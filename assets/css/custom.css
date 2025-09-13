@@ -7,8 +7,6 @@
   animation: gradientShift 20s ease infinite;
   position: relative;
   overflow: hidden;
-  padding-top: 2rem !important;
-  padding-bottom: 2rem !important;
 }
 
 /* Add a welcoming pattern overlay */
@@ -60,7 +58,6 @@
   position: relative;
   z-index: 2;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  margin-bottom: 1rem !important;
 }
 
 .notepad-site-head .notepad-site-head-content .notepad-site-head-title-bg:hover {
@@ -180,91 +177,61 @@
   animation: fadeInUp 1s ease-out, pulse 2s ease-in-out 2s infinite;
 }
 
-/* Personal introduction in header */
-.personal-intro-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 0;
-  margin-top: 1rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+/* Personal introduction styling */
+.personal-intro {
+  text-align: center;
+  margin: 2rem 0;
+  position: relative;
+  z-index: 2;
 }
 
-.author-intro {
+.author-name {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 1rem;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.social-links-hero {
   display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.social-links-hero a {
+  display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-}
-
-.author-greeting {
-  color: #666;
-  font-size: 1rem;
-  font-weight: 300;
-}
-
-.author-name-header {
-  color: #2c3e50;
-  font-size: 1.2rem;
-  font-weight: 600;
-}
-
-.social-links-header {
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-}
-
-.social-links-header a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
+  padding: 0.75rem 1.5rem;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
   text-decoration: none;
+  border-radius: 25px;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-.linkedin-link-header {
-  background: #0077b5;
-  color: white;
-}
-
-.linkedin-link-header:hover {
-  background: #005885;
-  transform: translateY(-2px) scale(1.1);
-  box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3);
-}
-
-.github-link-header {
-  background: #333;
-  color: white;
-}
-
-.github-link-header:hover {
-  background: #000;
-  transform: translateY(-2px) scale(1.1);
+.social-links-hero a:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
 
-/* Mobile responsive for header intro */
-@media only screen and (max-width: 40em) {
-  .personal-intro-header {
-    flex-direction: column;
-    gap: 1rem;
-    text-align: center;
-  }
-  
-  .author-intro {
-    justify-content: center;
-  }
+.linkedin-link:hover {
+  background: linear-gradient(45deg, #0077b5, #005885) !important;
+}
+
+.github-link:hover {
+  background: linear-gradient(45deg, #333, #000) !important;
 }
 
 /* Description container for better spacing */
 .description-container {
   text-align: center;
-  margin-top: 0.5rem;
+  margin-top: 1rem;
 }
 
 /* Reduce the overly large description font sizes */
@@ -304,40 +271,28 @@
   }
 }
 
-/* Responsive styling for header intro */
+/* Responsive styling for personal intro */
 @media only screen and (min-width: 40.063em) {
-  .author-name-header {
-    font-size: 1.4rem;
+  .author-name {
+    font-size: 1.8rem;
   }
   
-  .social-links-header a {
-    width: 45px;
-    height: 45px;
+  .social-links-hero a {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
   }
   
   .notepad-blog-description-2 {
     font-size: 1.4rem !important;
   }
-  
-  /* Reduce hero padding on medium screens */
-  .notepad-site-head .notepad-site-head-content {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
-  }
 }
 
 @media only screen and (min-width: 70em) {
-  .author-name-header {
-    font-size: 1.6rem;
+  .author-name {
+    font-size: 2rem;
   }
   
-  .personal-intro-header {
-    padding: 1.5rem 0;
-  }
-  
-  /* Slightly more padding on large screens but still compact */
-  .notepad-site-head .notepad-site-head-content {
-    padding-top: 4rem !important;
-    padding-bottom: 4rem !important;
+  .personal-intro {
+    margin: 3rem 0;
   }
 }

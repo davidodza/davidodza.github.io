@@ -43,24 +43,6 @@ Description: Awesome dude, awesome life
            <!-- <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li> -->
     </ul>
 </div>
-        <div class="personal-intro-header">
-            <div class="author-intro">
-                <span class="author-greeting">Hi, I'm</span>
-                <span class="author-name-header">{{ site.owner.name }}</span>
-            </div>
-            <div class="social-links-header">
-                {% if site.owner.linkedin %}
-                <a href="https://linkedin.com/in/{{ site.owner.linkedin }}" class="linkedin-link-header" target="_blank">
-                    <i class="fa fa-linkedin"></i>
-                </a>
-                {% endif %}
-                {% if site.owner.github %}
-                <a href="https://github.com/{{ site.owner.github }}" class="github-link-header" target="_blank">
-                    <i class="fa fa-github"></i>
-                </a>
-                {% endif %}
-            </div>
-        </div>
         <div class="clearfix"></div>
     </div>
     <div class="notepad-site-head-content" >
@@ -70,6 +52,21 @@ Description: Awesome dude, awesome life
                 {{ site.title }}
             </span>
         </h1>
+        <div class="personal-intro">
+            <h3 class="author-name">Hi, I'm {{ site.owner.name }}</h3>
+            <div class="social-links-hero">
+                {% if site.owner.linkedin %}
+                <a href="https://linkedin.com/in/{{ site.owner.linkedin }}" class="linkedin-link" target="_blank">
+                    <i class="fa fa-linkedin"></i> Connect on LinkedIn
+                </a>
+                {% endif %}
+                {% if site.owner.github %}
+                <a href="https://github.com/{{ site.owner.github }}" class="github-link" target="_blank">
+                    <i class="fa fa-github"></i> View GitHub
+                </a>
+                {% endif %}
+            </div>
+        </div>
         <div class="description-container">
             <h2 class="notepad-blog-description">{{ site.description }}</h2>
             <h2 class="notepad-blog-description-2">{{ site.description2 }}</h2>

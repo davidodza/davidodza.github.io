@@ -1,5 +1,5 @@
-title:            Security Excersises
-description:      Never Stop Never Stopping
+title:            Cybersecurity Insights
+description:      Professional security analysis, penetration testing, and defensive strategies
 logo:             logo.png
 disqus_shortname: davidodza
 share:            true
@@ -15,11 +15,9 @@ owner:
   avatar:         DavidOdza.JPG
   email:          davidodza@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    ♫ My Dream is my Only Scheme ♫
+  description:    Cybersecurity Professional
   # Social networking links used in footer. Update and remove as you like.
-  facebook:       profile.php?id=100009474114323
   github:         davidodza
-  instagram:      big__wave_dave
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:    https://plus.google.com/u/0/100180549959489219789
 

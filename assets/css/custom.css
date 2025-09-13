@@ -1,0 +1,131 @@
+/* Custom professional styling for the hero section */
+
+/* Enhanced hero section with gradient and subtle pattern */
+.notepad-site-head .notepad-site-head-content {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%);
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Add a subtle pattern overlay */
+.notepad-site-head .notepad-site-head-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    radial-gradient(circle at 20% 80%, rgba(229, 24, 67, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(229, 24, 67, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.05) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+/* Animate the gradient */
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Enhanced title styling */
+.notepad-site-head .notepad-site-head-content h1 {
+  position: relative;
+  z-index: 2;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  letter-spacing: 2px;
+}
+
+.notepad-site-head .notepad-site-head-content h2 {
+  position: relative;
+  z-index: 2;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+  letter-spacing: 1px;
+  font-weight: 300;
+}
+
+/* Enhanced category tag styling */
+.notepad-site-head .notepad-site-head-content .notepad-site-head-title-bg {
+  background: linear-gradient(45deg, #e51843, #ff4757);
+  box-shadow: 0 4px 15px rgba(229, 24, 67, 0.3);
+  border-radius: 4px;
+  position: relative;
+  z-index: 2;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.notepad-site-head .notepad-site-head-content .notepad-site-head-title-bg:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(229, 24, 67, 0.4);
+}
+
+/* Add subtle animation to the content */
+.notepad-site-head .notepad-site-head-content h1,
+.notepad-site-head .notepad-site-head-content h2 {
+  animation: fadeInUp 1s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Professional footer styling */
+.notepad-site-footer {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+}
+
+/* Enhanced social icons */
+.notepad-site-footer .social-icons a {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.notepad-site-footer .social-icons a:hover {
+  transform: translateY(-2px);
+  color: #e51843;
+}
+
+/* Professional navigation styling */
+.notepad-blog-menu ul li a {
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.notepad-blog-menu ul li a:hover {
+  color: #e51843;
+  border-bottom-color: #e51843;
+}
+
+/* Add subtle hover effects to blog posts */
+.notepad-content .notepad-index-post {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.notepad-content .notepad-index-post:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Professional read more button */
+.notepad-content .notepad-index-post .notepad-post-read-more {
+  background: linear-gradient(45deg, #1a1a1a, #2d2d2d);
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.notepad-content .notepad-index-post .notepad-post-read-more:hover {
+  background: linear-gradient(45deg, #e51843, #ff4757);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 15px rgba(229, 24, 67, 0.3);
+}
